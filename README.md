@@ -1,18 +1,16 @@
-CodeAlpha - Master DSA Solutions in Java 🚀
+# **CodeAlpha - DSA Solutions in Java 🚀**  
 
+Welcome to **CodeAlpha**, a collection of **Data Structures and Algorithms (DSA) solutions in Java**. This repository covers essential DSA topics with well-structured and optimized code.  
 
-Welcome to CodeAlpha, the ultimate resource for tackling Data Structures and Algorithms (DSA) challenges in Java. This repository is designed to empower you with optimized solutions, step-by-step explanations, and topic-wise organization, covering essential DSA concepts such as arrays, trees, graphs, and more. Use CodeAlpha to level up your coding skills and ace technical interviews with confidence!
+## **Topics Covered**  
+- Arrays  
+- Linked Lists  
+- Stacks & Queues  
+- Trees  
+- Graphs  
+- Dynamic Programming  
+- Sorting & Searching  
+- And more...  
 
+Each topic includes problem sets with solutions. 🚀  
 
-✨ Topics Covered
-Explore a variety of fundamental and advanced DSA topics:
-
-Arrays
-Linked Lists
-Stacks and Queues
-Trees
-Graphs
-Dynamic Programming
-Sorting & Searching Algorithms
-And more...
-Each topic contains problem sets with detailed solutions and code snippets that are optimized for better performance and readability.
