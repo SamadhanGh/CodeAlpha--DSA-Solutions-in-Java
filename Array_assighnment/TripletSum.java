@@ -1,4 +1,4 @@
-package Array_a;
+package Array_assighnment;
 
 public class TripletSum {
     static int tripletSum(int[] arr, int target){
