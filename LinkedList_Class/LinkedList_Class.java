@@ -13,7 +13,7 @@ public class LinkedList_Class {
         }
     }
 
-    public static Node head;
+    public static Node head; // ✅ fixed
     public static Node tail;
 
     // Add at the beginning
@@ -67,5 +67,3 @@ public class LinkedList_Class {
         li.print();
     }
 }
-
-
